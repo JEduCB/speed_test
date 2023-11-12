@@ -1,0 +1,15 @@
+/home/user/git/speed_test/speed_test_dotnet/bin/Debug/net7.0/speed_test.net
+/home/user/git/speed_test/speed_test_dotnet/bin/Debug/net7.0/speed_test.net.deps.json
+/home/user/git/speed_test/speed_test_dotnet/bin/Debug/net7.0/speed_test.net.runtimeconfig.json
+/home/user/git/speed_test/speed_test_dotnet/bin/Debug/net7.0/speed_test.net.dll
+/home/user/git/speed_test/speed_test_dotnet/bin/Debug/net7.0/speed_test.net.pdb
+/home/user/git/speed_test/speed_test_dotnet/obj/Debug/net7.0/speed_test.net.csproj.AssemblyReference.cache
+/home/user/git/speed_test/speed_test_dotnet/obj/Debug/net7.0/speed_test.net.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/git/speed_test/speed_test_dotnet/obj/Debug/net7.0/speed_test.net.AssemblyInfoInputs.cache
+/home/user/git/speed_test/speed_test_dotnet/obj/Debug/net7.0/speed_test.net.AssemblyInfo.cs
+/home/user/git/speed_test/speed_test_dotnet/obj/Debug/net7.0/speed_test.net.csproj.CoreCompileInputs.cache
+/home/user/git/speed_test/speed_test_dotnet/obj/Debug/net7.0/speed_test.net.dll
+/home/user/git/speed_test/speed_test_dotnet/obj/Debug/net7.0/refint/speed_test.net.dll
+/home/user/git/speed_test/speed_test_dotnet/obj/Debug/net7.0/speed_test.net.pdb
+/home/user/git/speed_test/speed_test_dotnet/obj/Debug/net7.0/speed_test.net.genruntimeconfig.cache
+/home/user/git/speed_test/speed_test_dotnet/obj/Debug/net7.0/ref/speed_test.net.dll

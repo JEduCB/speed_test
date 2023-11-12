@@ -1,0 +1,41 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "(gdb) Launch",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/bin/speed_test",
+            "args": [
+                "async_jobs=0",
+                "seconds=5",
+                "rsa2048"
+            ],
+            "stopAtEntry": true,
+            "cwd": "${workspaceFolder}/bin",
+            "environment": [
+                // {
+                //     "name": "LD_PRELOAD",
+                //     "value": "/lib/x86_64-linux-gnu/libssl.so.1.1:/lib/x86_64-linux-gnu/libcrypto.so.1.1:/usr/lib/x86_64-linux-gnu/engines-1.1/qatengine.so"
+                // },
+                {
+                    "name": "OPENSSL_CONF",
+                    "value": "/etc/ssl/openssl-qat.cnf"
+                }
+            ],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ],
+            "preLaunchTask": "build speed_test"
+        }
+    ]
+}
